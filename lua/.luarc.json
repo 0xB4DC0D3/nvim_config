@@ -1,0 +1,20 @@
+{
+    "workspace.library": [
+        "/Users/kolya/.config/nvim",
+        "/Users/kolya/.local/share/nvim/lazy/lazy.nvim",
+        "/Users/kolya/.local/share/nvim/lazy/nui.nvim",
+        "/Users/kolya/.local/share/nvim/lazy/plenary.nvim",
+        "/Users/kolya/.local/share/nvim/lazy/neo-tree.nvim",
+        "/Users/kolya/.local/share/nvim/lazy/nvim-web-devicons",
+        "/Users/kolya/.local/share/nvim/lazy/lualine.nvim",
+        "/Users/kolya/.local/share/nvim/lazy/poimandres.nvim",
+        "/Users/kolya/.local/share/nvim/lazy/nvim-lspconfig",
+        "/Users/kolya/.local/share/nvim/lazy/nvim-treesitter",
+        "/opt/homebrew/Cellar/neovim/0.9.1/share/nvim/runtime",
+        "/opt/homebrew/Cellar/neovim/0.9.1/share/nvim/runtime/pack/dist/opt/matchit",
+        "/opt/homebrew/Cellar/neovim/0.9.1/lib/nvim",
+        "/Users/kolya/.local/state/nvim/lazy/readme",
+        "/Users/kolya/.local/share/nvim/lazy/poimandres.nvim/after",
+        "${3rd}/luassert/library"
+    ]
+}
