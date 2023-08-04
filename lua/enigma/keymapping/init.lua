@@ -23,7 +23,6 @@ keymap.set('n', 'ss', '<cmd>split<CR>', { silent = true })
 keymap.set('n', 'sv', '<cmd>vsplit<CR>', { silent = true })
 
 -- Move window
-keymap.set('n', '<leader>', '<C-w>w', { silent = true })
 keymap.set('', '<leader>h', '<C-w>h', { silent = true })
 keymap.set('', '<leader>j', '<C-w>j', { silent = true })
 keymap.set('', '<leader>k', '<C-w>k', { silent = true })
